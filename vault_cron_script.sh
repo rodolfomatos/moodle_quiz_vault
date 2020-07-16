@@ -2,7 +2,7 @@
 # 
 #      "Moodle Quizzes Vault CRON script"
 #
-# rodolfo@uporto.pt
+# rodolfo.matos@gmail.com
 #
 
 # Configuration --------------------------------------------------------
